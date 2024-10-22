@@ -2,20 +2,6 @@
 # Stack and Queue Project
 This repository contains several Java implementations of fundamental data structures and a simple banking application. These classes include custom implementations of linked lists, queues, and stacks, along with an example usage in a bank simulation.
 
-* [Project Overview](#project-overview)
-* [Classes](#classes)
-  * [Bank](#bankjava)
-  * [MyLinkedList](#mylinkedlistjava)
-  * [MyQueue](#myqueuejava)
-  * [MyStack](#mystackjava)
-  * [myStackAndQueue](#mystackandqueuejava)
-  * [Node](#nodejava)
-  * [Person](#personjava)
-* [How to Use](#how-to-use)
-* [Installation](#installation)
-* [Contributing](#contributing)
-* [License](#license)
-
 # Project Overview
 This project demonstrates the use of custom data structures in a Java application. These classes provide insight into linked list, stack, and queue operations, which are foundational in computer science.
 
